@@ -5,8 +5,6 @@
 ## laravel-docker
 🐳 Generic docker image for Laravel Applications
 
-[![Docker Badge](https://img.shields.io/docker/pulls/lorisleiva/laravel-docker)](https://hub.docker.com/r/lorisleiva/laravel-docker/)
-
 
 | Tags | PHP version | Features |
 | - | - | - |
